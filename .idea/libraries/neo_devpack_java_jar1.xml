@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="neo_devpack_java_jar1">
+    <CLASSES>
+      <root url="file://D:/Program files/NEO dev/org.neo.smartcontract.framework/classes/artifacts/neo_devpack_java_jar" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://D:/Program files/NEO dev/org.neo.smartcontract.framework/classes/artifacts/neo_devpack_java_jar" recursive="false" />
+  </library>
+</component>
